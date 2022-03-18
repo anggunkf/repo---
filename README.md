@@ -1,2 +1,2 @@
-Nama  : Anggun Karenina Fishabilillah
-NIM   : 6701204090
+Nama 	: Anggun Karenina Fishabilillah
+NIM	: 6701204090
